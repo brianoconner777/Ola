@@ -18,3 +18,16 @@ Visit - http://localhost:3000 to view the site
 ## Development server
 
 npm run dev
+
+## For the Dashboard App
+http://localhost:3000/dashboardApp
+
+## For the customer App
+http://localhost:3000/customerApp
+
+## For the driver app
+http://localhost:3000/driverApp?id=1
+http://localhost:3000/driverApp?id=2
+http://localhost:3000/driverApp?id=3
+http://localhost:3000/driverApp?id=4
+http://localhost:3000/driverApp?id=5
