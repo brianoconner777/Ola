@@ -1,0 +1,19 @@
+BACKEND - 
+
+1. Create Drivers
+
+DRIVER APP:
+
+API - 
+1. /api/requests?id=2 
+	response - {
+		waiting: [REQUESTS],
+		ongoing: [REQUESTS],
+		completed: [REQUESTS],
+	}
+
+
+CONSUMER APP
+
+API -
+1. /api/requests - POST
