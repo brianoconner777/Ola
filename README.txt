@@ -31,3 +31,8 @@ http://localhost:3000/driverApp?id=2
 http://localhost:3000/driverApp?id=3
 http://localhost:3000/driverApp?id=4
 http://localhost:3000/driverApp?id=5
+
+## Typical flow 
+1. Create Request from customer app 
+2. Accept Request from drivers app 
+3. Check the Dashboard app for overview 

@@ -25,7 +25,7 @@
       }
     }
   },
-  "author": "Amrut Bawane",
+  "author": "Saurabh Garg",
   "license": "MIT",
   "dependencies": {
     "better-npm-run": "*",
